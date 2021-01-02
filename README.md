@@ -62,9 +62,10 @@ Mobilizon is not a giant platform, but a multitude of interconnected Mobilizon w
  
 Free speech is an important human right, and one that aligns closely with TAFS’s greater mission: to make the internet safer for everyone. We believe that free speech and free press play a critical role in exposing injustice and inequality, and we also know that free speech is under attack in many ways and for many groups of people.
  
-<center>   Tag Line
+p align="center">   Tag Line
 > ‘decentralizing free speech online’
-</center> 
+</p> 
+
 ## Mission Statement
  
 The mission of The American Free Speech Society is two-fold, to allow media creators to have another delivery method of their content online and build an archive of media for anyone to view in the future. TAFS will deploy and host online media instances, as an alternative platform, that aid in the distribution of media (video and audio) in a decentralized federated network. The network technology will be available to Media content creators and the option of their content to be federated across the fediverse network globally.   

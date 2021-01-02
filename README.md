@@ -71,7 +71,7 @@ Free speech is an important human right, and one that aligns closely with TAFSâ€
  
 The mission of The American Free Speech Society is two-fold, to allow media creators to have another delivery method of their content online and build an archive of media for anyone to view in the future. TAFS will deploy and host online media instances, as an alternative platform, that aid in the distribution of media (video and audio) in a decentralized federated network. The network technology will be available to Media content creators and the option of their content to be federated across the fediverse network globally.   
  
-A good example of the only current model opearating is the [http://wayback.archive.org/](http://wayback.archive.org/)  but such service is limited in scope and mission to address the modern issues of free speech online and censorship of Big Tech and their use of of Surveillance Capitalism .  
+A good example of the only current model opearating is the [http://wayback.archive.org/](http://wayback.archive.org/)  but such service is limited in scope and mission to address the modern issues of free speech online and censorship of Big Tech and their use of Surveillance Capitalism .  
  
 The Fedivese currently runs several Instance with district domains;
  

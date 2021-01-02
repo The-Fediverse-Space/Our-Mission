@@ -64,7 +64,7 @@ Free speech is an important human right, and one that aligns closely with TAFS�
  
 <p align="center">Tag Line</p>
  
-<p align="center"> > ‘decentralizing free speech online’
+<p align="center"> ## ‘_decentralizing free speech online_’
 </p> 
 
 ## Mission Statement

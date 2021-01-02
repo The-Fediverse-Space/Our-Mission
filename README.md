@@ -90,5 +90,5 @@ The Fedivese currently runs several Instance with district domains;
 
 Finally, in order to ensure the success of this project, I encourage friends, family and individuals who believe in our vision, that free speech needs to be decentralized online, to consider supporting this initiative with a small donation. Our goal is to focus on our annual fund raising for the Fediverse network maintenance, growth and our new  office operations. 
  
-For more information on the Free Speech project you can reach Tony Valamontes at tony@geopay.me or call +17273868805
+For more information on the Free Speech project you can reach Tony Valamontes at tony(at)geopay.me or call +17273868805
 

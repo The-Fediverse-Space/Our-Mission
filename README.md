@@ -12,8 +12,6 @@
 
 # A Federated Answer to Social Media Centralization
 
-![](https://i.ibb.co/WF1xW7b/dectralized-v1-resize.png)
-
 I’ll like to introduce the Fediverse Space, a social media network founded by The American Free Speech Society (to be formed as Not For Profit Organization under the
 IRS 501c3) in the spirit of a decentralized and free Internet. A decentralized web has plenty of challenges and is not necessarily for the faint-hearted, but there are good
 reasons to persevere. The American Free Speech Society has taken the task to resolve the challenges of deployment of a decentralized media network.
@@ -34,6 +32,8 @@ Centralization is a double-edged sword. Its core idea is based on the storage, o
 But this sense of protection comes at a price. Your data — like tweets, retweets, likes, and shares — are stored and owned by a corporation. These companies have yearly financial KPIs, and your data is a great way for them to generate money, primarily when used for targeted advertisements. Another downside to such platforms is that they’re not open source, meaning there’s no transparency between the users and the platform they’re on. As a user, you have no idea what’s happening under the hood or how your data is being
 handled. 
 
+![](https://i.ibb.co/WF1xW7b/dectralized-v1-resize.png)
+
 So what if there was a platform with a decentralized structure, where you owned what you posted and you could see what your data was being used for? For a long time, people
 have tried to create such platforms — App.net, Peach, Diaspora and Ello are a few of the better-known examples. But the latest pioneer in decentralized social media comes with all of the benefits listed above.
 
@@ -43,3 +43,5 @@ Mastodon was released in 2016. In the eyes of many, this network is the first st
 Mastodon focuses on the safety and privacy of its user base by being decentralized and federated. All of its data are distributed across a vast number of independent servers,
 known as “instances”. Each instance has its own terms of service, code of conduct, and moderation policies while working seamlessly together with other servers as a federating
 network.
+
+![](https://i.ibb.co/fFxZLqB/unnamed.png)

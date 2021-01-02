@@ -12,6 +12,8 @@
 
 # A Federated Answer to Social Media Centralization
 
+![](https://i.ibb.co/WF1xW7b/dectralized-v1-resize.png)
+
 I’ll like to introduce the Fediverse Space, a social media network founded by The American Free Speech Society (to be formed as Not For Profit Organization under the
 IRS 501c3) in the spirit of a decentralized and free Internet. A decentralized web has plenty of challenges and is not necessarily for the faint-hearted, but there are good
 reasons to persevere. The American Free Speech Society has taken the task to resolve the challenges of deployment of a decentralized media network.

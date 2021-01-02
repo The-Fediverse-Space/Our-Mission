@@ -42,3 +42,19 @@
 </br>
 
 >PeerTube is a federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.
+
+# What is Mobilizon
+
+Mobilizon is a tool that helps you find, create and organise events. You can also create a page for your group where the members will be able to organise together.
+
+ _An ethical alternative_
+
+
+Ethical alternative to Facebook events, groups and pages, Mobilizon is a tool designed to serve you. _No likes_, _no follows_, _no infinite wall to scroll: Mobilizon leaves you in control of your attention._
+ 
+ ## A federated code
+ 
+Mobilizon is not a giant platform, but a multitude of interconnected Mobilizon websites. This federated architecture helps avoid monopolies and offers a diversity of hosting terms of service.
+
+<p align="center"><img src="https://i.ibb.co/Wpt1NsK/event-tree-participation-rose-utopia-600.png?raw=true" alt="Sublime's custom image"/></p>
+

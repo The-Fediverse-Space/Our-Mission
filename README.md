@@ -58,3 +58,31 @@ Mobilizon is not a giant platform, but a multitude of interconnected Mobilizon w
 
 <p align="center"><img src="https://i.ibb.co/Wpt1NsK/event-tree-participation-rose-utopia-600.png?raw=true" alt="Sublime's custom image"/></p>
 
+# The American Free Speech Society Corp
+ 
+Free speech is an important human right, and one that aligns closely with TAFS’s greater mission: to make the internet safer for everyone. We believe that free speech and free press play a critical role in exposing injustice and inequality, and we also know that free speech is under attack in many ways and for many groups of people.
+ 
+   Tag Line
+> ‘decentralizing free speech online’
+ 
+## Mission Statement
+ 
+The mission of The American Free Speech Society is two-fold, to allow media creators to have another delivery method of their content online and build an archive of media for anyone to view in the future. TAFS will deploy and host online media instances, as an alternative platform, that aid in the distribution of media (video and audio) in a decentralized federated network. The network technology will be available to Media content creators and the option of their content to be federated across the fediverse network globally.   
+ 
+A good example of the only current model opearating is is the [http://wayback.archive.org/](http://wayback.archive.org/)  but such service is limited in scope and mission to address the modern issues of free speech online and censorship of Big Tech and their use of of Surveillance Capitalism .  
+ 
+The Fedivese currently runs several Instance with district domains;
+ 
+FightBig.Tech (main site)
+------------------------------
+The Duran
+Katie Hopkins
+Censorship ICU
+Political ICU
+AntiVaxxer ICU
+Voice News ICU
+Plandemic ICU
+Our Christian Faith
+Tweety (Twitter Alternative)
+Voter Integrity Organizer
+

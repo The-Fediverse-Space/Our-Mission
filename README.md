@@ -62,8 +62,9 @@ Mobilizon is not a giant platform, but a multitude of interconnected Mobilizon w
  
 Free speech is an important human right, and one that aligns closely with TAFS’s greater mission: to make the internet safer for everyone. We believe that free speech and free press play a critical role in exposing injustice and inequality, and we also know that free speech is under attack in many ways and for many groups of people.
  
-<p align="center">   Tag Line
-> ‘decentralizing free speech online’
+<p align="center">Tag Line</p>
+ 
+<p align="center"> > ‘decentralizing free speech online’
 </p> 
 
 ## Mission Statement

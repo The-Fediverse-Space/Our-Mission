@@ -12,7 +12,7 @@
 
 # A Federated Answer to Social Media Centralization
 
-<div align="justify">I’ll like to introduce the **New Fediverse Space**, a _Social Media Federated Network_ founded by The American Free Speech Society Corp, (_In Progess_ Not For Profit Organization under the _IRS 501c3_ Rules), in the spirit of a decentralized and free Internet. A decentralized web has plenty of challenges and is not necessarily for the faint-hearted, but there are good reasons to persevere. The American Free Speech Society has taken the task to resolve the challenges of deployment of a decentralized media network.</div>
+<div align="justify">I’ll like to introduce the **New Fediverse Space**, a _Social Media Federated Network_ founded by The American Free Speech Society Corp, (_In Progess_ Not For Profit Organization under the *IRS 501c3* Rules), in the spirit of a decentralized and free Internet. A decentralized web has plenty of challenges and is not necessarily for the faint-hearted, but there are good reasons to persevere. The American Free Speech Society has taken the task to resolve the challenges of deployment of a decentralized media network.</div>
 <br>
 <div align="justify">On July 15, 2020, one of the biggest scams in Twitter’s history happened. Through intelligent social engineering, a group of people managed to gain access to Twitter’s administrative tools, allowing them to post tweets directly from several high-profile accounts.
 <br>
@@ -76,17 +76,17 @@ The Fedivese currently runs several Instance with district domains;
  
 ## FightBig.Tech (Fediverse Space)
 ------------------------------
-* The Duran
-* Katie Hopkins
-* Censorship ICU
-* Political ICU
-* AntiVaxxer ICU
-* Voice News ICU
-* Plandemic ICU
-* Our Christian Faith
-* Voter Integrity Organizer
+* [Link to The Duran)(https://theduran.icu)
+* [Katie Hopkins under maint.](#)
+* [Link to Censorship ICU](https://censorship.icu)
+* [Link to Political ICU](https://political.icu)
+* [Link to AntiVaxxer ICU](https://antivaxxer.icu)
+* [Link to Voice News ICU](https://voicenews.icu)
+* [Link to Plandemic ICU](https://plandemic.icu)
+* [Link to Our Christian Faith](http://ourchristian.faith)
+* [Link to Voter Integrity Organizer](voterintegrity.today)
 
- *  _Tweety (Twitter Alternative)_
+ * [Link to  _Tweety (Twitter Alternative)_](https://tweety.icu)
 
 Finally, in order to ensure the success of this project, I encourage friends, family and individuals who believe in our vision, that free speech needs to be decentralized online, to consider supporting this initiative with a small donation. Our goal is to focus on our annual fund raising for the Fediverse network maintenance, growth and our new  office operations. 
  

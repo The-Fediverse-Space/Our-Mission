@@ -13,7 +13,7 @@
 
 # A Federated Answer to Social Media Centralization
 
-<div align="justify">I’ll like to introduce the **New Fediverse Space**, a _Social Media Federated Network_ founded by The American Free Speech Society Corp, (_In Progess_ Not For Profit Organization under the *IRS 501c3* Rules), in the spirit of a decentralized and free Internet. A decentralized web has plenty of challenges and is not necessarily for the faint-hearted, but there are good reasons to persevere. The American Free Speech Society has taken the task to resolve the challenges of deployment of a decentralized media network.</div>
+<div align="justify">I’ll like to introduce the *New Fediverse Space*, a _Social Media Federated Network_ founded by The American Free Speech Society Corp, (_In Progess_ Not For Profit Organization under the *IRS 501c3* Rules), in the spirit of a decentralized and free Internet. A decentralized web has plenty of challenges and is not necessarily for the faint-hearted, but there are good reasons to persevere. The American Free Speech Society has taken the task to resolve the challenges of deployment of a decentralized media network.</div>
 <br>
 <div align="justify">On July 15, 2020, one of the biggest scams in Twitter’s history happened. Through intelligent social engineering, a group of people managed to gain access to Twitter’s administrative tools, allowing them to post tweets directly from several high-profile accounts.
 <br>

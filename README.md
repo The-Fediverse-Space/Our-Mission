@@ -73,7 +73,7 @@ A good example of the only current model opearating is is the [http://wayback.ar
  
 The Fedivese currently runs several Instance with district domains;
  
-## FightBig.Tech (main site)
+## FightBig.Tech (Fediverse Space)
 ------------------------------
 * The Duran
 * Katie Hopkins

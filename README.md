@@ -77,7 +77,7 @@ The Fedivese currently runs several Instance with district domains;
 ## FightBig.Tech (Fediverse Space)
 ------------------------------
 * [Link to The Duran ICU](https://theduran.icu)
-* [Katie Hopkins under maint.](#)
+* [Katie Hopkins _under maint._](#)
 * [Link to Censorship ICU](https://censorship.icu)
 * [Link to Political ICU](https://political.icu)
 * [Link to AntiVaxxer ICU](https://antivaxxer.icu)

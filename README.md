@@ -13,22 +13,19 @@
 # A Federated Answer to Social Media Centralization
 
 <div align="justify">I’ll like to introduce the Fediverse Space, a social media network founded by The American Free Speech Society (to be formed as Not For Profit Organization under the IRS 501c3) in the spirit of a decentralized and free Internet. A decentralized web has plenty of challenges and is not necessarily for the faint-hearted, but there are good reasons to persevere. The American Free Speech Society has taken the task to resolve the challenges of deployment of a decentralized media network.</div>
-
-
+<br>
 <div align="justify">On July 15, 2020, one of the biggest scams in Twitter’s history happened. Through intelligent social engineering, a group of people managed to gain access to Twitter’s administrative tools, allowing them to post tweets directly from several high-profile accounts.
-
-
+<br>
 More than 130 influential Twitter accounts were hacked. In a matter of minutes, the profiles of Apple, Bill Gates, Elon Musk, and others asked individuals to send Bitcoin to a
 cryptocurrency wallet, with the promise that the money sent would be doubled and returned as a charitable gesture. Within minutes of the initial tweets, more than 300 transactions had already taken place — to a value of over US$180,000 — before Twitter took the scam messages down.
-
-
+<br>
 With a centralized structure in place, only a single person with administrative rights needed to be tricked into giving out access to these high-profile accounts. In similar
 circumstances, someone with a more sinister motive might aim at a stock market crash, fabricated political tension, or even global unrest.</div>
 
 # The Pros and Cons of Centralization
 
 <div align="justify">Centralization is a double-edged sword. Its core idea is based on the storage, ownership, and protection of your data by a social media platform. While this sounds awful, there are benefits. The first and strongest advantage of centralized platforms is their ease of use. For example, when you forget your password or your account gets hacked, platforms with a centralized structure can recover them with ease, since they store all of your data on their servers.
-
+<br>
 But this sense of protection comes at a price. Your data — like tweets, retweets, likes, and shares — are stored and owned by a corporation. These companies have yearly financial KPIs, and your data is a great way for them to generate money, primarily when used for targeted advertisements. Another downside to such platforms is that they’re not open source, meaning there’s no transparency between the users and the platform they’re on. As a user, you have no idea what’s happening under the hood or how your data is being
 handled.>/div> 
 

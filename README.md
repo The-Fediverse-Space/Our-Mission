@@ -44,7 +44,7 @@ Mastodon focuses on the safety and privacy of its user base by being decentraliz
 known as “instances”. Each instance has its own terms of service, code of conduct, and moderation policies while working seamlessly together with other servers as a federating
 network.
 
-<span style="display:block;text-align:center">![](https://i.ibb.co/fFxZLqB/unnamed.png)</span>
+<p align="center"><img src="https://i.ibb.co/fFxZLqB/unnamed.png?raw=true" alt="Sublime's custom image"/></p>
 
 # What is PeerTube
 

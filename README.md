@@ -39,5 +39,5 @@
 # What is PeerTube
 
 <div align="justify">PeerTube is a free and open-source, decentralized, federated video platform powered by ActivityPub and WebTorrent, that uses peer-to-peer technology to reduce load on individual servers when viewing videos. Started in 2015 by a programmer known as Chocobozz, development of PeerTube is now supported by the French non-profit Framasoft.</div> 
-<br><br>
+</br>
 >PeerTube is a federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.

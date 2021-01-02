@@ -32,7 +32,7 @@ Centralization is a double-edged sword. Its core idea is based on the storage, o
 But this sense of protection comes at a price. Your data — like tweets, retweets, likes, and shares — are stored and owned by a corporation. These companies have yearly financial KPIs, and your data is a great way for them to generate money, primarily when used for targeted advertisements. Another downside to such platforms is that they’re not open source, meaning there’s no transparency between the users and the platform they’re on. As a user, you have no idea what’s happening under the hood or how your data is being
 handled. 
 
-![](https://i.ibb.co/WF1xW7b/dectralized-v1-resize.png)
+<span style="display:block;text-align:center">![](https://i.ibb.co/WF1xW7b/dectralized-v1-resize.png)</span>
 
 So what if there was a platform with a decentralized structure, where you owned what you posted and you could see what your data was being used for? For a long time, people
 have tried to create such platforms — App.net, Peach, Diaspora and Ello are a few of the better-known examples. But the latest pioneer in decentralized social media comes with all of the benefits listed above.
@@ -44,7 +44,7 @@ Mastodon focuses on the safety and privacy of its user base by being decentraliz
 known as “instances”. Each instance has its own terms of service, code of conduct, and moderation policies while working seamlessly together with other servers as a federating
 network.
 
-![](https://i.ibb.co/fFxZLqB/unnamed.png)
+<span style="display:block;text-align:center">![](https://i.ibb.co/fFxZLqB/unnamed.png)</span>
 
 # What is PeerTube
 

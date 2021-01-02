@@ -33,7 +33,6 @@ But this sense of protection comes at a price. Your data — like tweets, retwee
 handled. 
 
 ![](https://i.ibb.co/WF1xW7b/dectralized-v1-resize.png)
-
 So what if there was a platform with a decentralized structure, where you owned what you posted and you could see what your data was being used for? For a long time, people
 have tried to create such platforms — App.net, Peach, Diaspora and Ello are a few of the better-known examples. But the latest pioneer in decentralized social media comes with all of the benefits listed above.
 

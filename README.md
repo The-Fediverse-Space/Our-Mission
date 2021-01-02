@@ -84,7 +84,7 @@ The Fedivese currently runs several Instance with district domains;
 * Plandemic ICU
 * Our Christian Faith
 
- * _Tweety (Twitter Alternative)_
+ *  _Tweety (Twitter Alternative)_
 
 * Voter Integrity Organizer
 

@@ -33,6 +33,7 @@ But this sense of protection comes at a price. Your data — like tweets, retwee
 handled. 
 
 ![](https://i.ibb.co/WF1xW7b/dectralized-v1-resize.png)
+
 So what if there was a platform with a decentralized structure, where you owned what you posted and you could see what your data was being used for? For a long time, people
 have tried to create such platforms — App.net, Peach, Diaspora and Ello are a few of the better-known examples. But the latest pioneer in decentralized social media comes with all of the benefits listed above.
 
@@ -44,3 +45,10 @@ known as “instances”. Each instance has its own terms of service, code of co
 network.
 
 ![](https://i.ibb.co/fFxZLqB/unnamed.png)
+
+# What is PeerTube
+
+PeerTube is a free and open-source, decentralized, federated video platform powered by ActivityPub and WebTorrent, that uses peer-to-peer technology to reduce load on
+individual servers when viewing videos. Started in 2015 by a programmer known as Chocobozz, development of PeerTube is now supported by the French non-profit Framasoft. 
+
+>PeerTube is a federated (ActivityPub) video streaming platform using P2P (BitTorrent) directly in the web browser with WebTorrent and Angular.

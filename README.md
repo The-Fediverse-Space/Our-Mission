@@ -12,18 +12,15 @@
 
 # A Federated Answer to Social Media Centralization
 
-I’ll like to introduce the Fediverse Space, a social media network founded by The American Free Speech Society (to be formed as Not For Profit Organization under the
-IRS 501c3) in the spirit of a decentralized and free Internet. A decentralized web has plenty of challenges and is not necessarily for the faint-hearted, but there are good
-reasons to persevere. The American Free Speech Society has taken the task to resolve the challenges of deployment of a decentralized media network.
+<div align="justify">I’ll like to introduce the Fediverse Space, a social media network founded by The American Free Speech Society (to be formed as Not For Profit Organization under the IRS 501c3) in the spirit of a decentralized and free Internet. A decentralized web has plenty of challenges and is not necessarily for the faint-hearted, but there are good reasons to persevere. The American Free Speech Society has taken the task to resolve the challenges of deployment of a decentralized media network.</div>
 
-On July 15, 2020, one of the biggest scams in Twitter’s history happened. Through intelligent social engineering, a group of people managed to gain access to Twitter’s
-administrative tools, allowing them to post tweets directly from several high-profile accounts.
+<div align="justify">On July 15, 2020, one of the biggest scams in Twitter’s history happened. Through intelligent social engineering, a group of people managed to gain access to Twitter’s administrative tools, allowing them to post tweets directly from several high-profile accounts.
 
 More than 130 influential Twitter accounts were hacked. In a matter of minutes, the profiles of Apple, Bill Gates, Elon Musk, and others asked individuals to send Bitcoin to a
 cryptocurrency wallet, with the promise that the money sent would be doubled and returned as a charitable gesture. Within minutes of the initial tweets, more than 300 transactions had already taken place — to a value of over US$180,000 — before Twitter took the scam messages down.
 
 With a centralized structure in place, only a single person with administrative rights needed to be tricked into giving out access to these high-profile accounts. In similar
-circumstances, someone with a more sinister motive might aim at a stock market crash, fabricated political tension, or even global unrest.
+circumstances, someone with a more sinister motive might aim at a stock market crash, fabricated political tension, or even global unrest.</div>
 
 # The Pros and Cons of Centralization
 
